@@ -1,0 +1,1 @@
+example-duration: ${parse-iso-8601-duration:${runtime_params:duration_iso8601,1d}}
